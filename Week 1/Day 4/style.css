@@ -1,0 +1,15 @@
+body{
+   background-image:url("download.jpg");
+   background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#name{
+    color: rgb(241, 241, 241);
+}
+
+@media (min-width:500px) {
+    #name{
+        color: purple;
+    }   
+}
