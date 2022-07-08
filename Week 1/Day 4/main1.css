@@ -1,0 +1,17 @@
+.data{
+    text-align: center;
+    margin-top: 200px;
+}
+button{
+    margin: 10px;
+    color:blue;
+}
+input{
+    margin: 10px;
+}
+body{
+    background-color: rgb(169, 169, 169); 
+    background-image:url("th1.jpg");
+    background-repeat: no-repeat;
+   background-size: cover;
+}
