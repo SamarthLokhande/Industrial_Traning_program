@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.Foot{
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1000%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M -209.27499729526585%2c148 C -113.27%2c215 78.73%2c484.6 270.72500270473415%2c483 C 462.73%2c481.4 558.73%2c149 750.7250027047342%2c140 C 942.73%2c131 1038.73%2c432 1230.7250027047342%2c438 C 1422.73%2c444 1668.87%2c192.6 1710.7250027047342%2c170 C 1752.58%2c147.4 1494.15%2c294 1440%2c325' stroke='rgba(51%2c 121%2c 194%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M -922.6058725460402%2c96 C -826.61%2c136.8 -634.61%2c286.2 -442.6058725460403%2c300 C -250.61%2c313.8 -154.61%2c131.4 37.3941274539597%2c165 C 229.39%2c198.6 325.39%2c458 517.3941274539598%2c468 C 709.39%2c478 812.87%2c232.2 997.3941274539598%2c215 C 1181.92%2c197.8 1351.48%2c348.6 1440%2c382' stroke='rgba(51%2c 121%2c 194%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M -10.163315121849621%2c186 C 85.84%2c242.4 277.84%2c477 469.8366848781504%2c468 C 661.84%2c459 757.84%2c158.8 949.8366848781504%2c141 C 1141.84%2c123.2 1237.84%2c355.6 1429.8366848781504%2c379 C 1621.84%2c402.4 1907.8%2c270.4 1909.8366848781504%2c258 C 1911.87%2c245.6 1533.97%2c305.2 1440%2c317' stroke='rgba(51%2c 121%2c 194%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M -755.7187086550823%2c150 C -659.72%2c198.4 -467.72%2c394 -275.71870865508225%2c392 C -83.72%2c390 12.28%2c121.6 204.28129134491775%2c140 C 396.28%2c158.4 492.28%2c462 684.2812913449177%2c484 C 876.28%2c506 1013.14%2c267.6 1164.2812913449177%2c250 C 1315.43%2c232.4 1384.86%2c366.8 1440%2c396' stroke='rgba(51%2c 121%2c 194%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1000'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e")
+}
+.abc{
+
+background-color: black;
+color: aliceblue;
+}
